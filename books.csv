@@ -2,7 +2,7 @@ id,title,author,genre,isbn,year,rating,quantity,borrowCount
 1,To Kill a Mockingbird,Harper Lee,Philosophy,2852792095852,1882,5.4,1,1
 2,1984,George Orwell,Philosophy,8611908019106,1955,4.9,1,0
 3,The Great Gatsby,F. Scott Fitzgerald,Sci-Fi,3435842592082,1981,3.1,3,1
-4,Pride and Prejudice,Jane Austen,Classic,9377662678857,1853,3.3,6,0
+4,Pride and Prejudice,Jane Austen,Classic,9377662678857,1853,3.3,5,1
 5,The Catcher in the Rye,J.D. Salinger,Fiction,3742142561580,1952,3.9,4,0
 6,Moby Dick,Herman Melville,Fiction,5250614836004,1903,4.4,1,0
 7,War and Peace,Leo Tolstoy,Sci-Fi,2293420507217,2014,4.2,2,0
@@ -198,7 +198,6 @@ id,title,author,genre,isbn,year,rating,quantity,borrowCount
 197,The Bible (Public Domain KJV),Multiple Authors,Philosophy,8493493741636,1882,3.8,1,0
 198,The Epic of Gilgamesh,Unknown,Sci-Fi,6724673157298,1969,3.7,2,0
 199,The Rubaiyat,Omar Khayyam,Classic,2919327590905,1982,3.1,2,0
-200,The Egyptian Book of the Dead,Multiple Authors,Horror,7655119202352,1952,3.7,4,0
 201,The Talmud (Selections),Multiple Authors,Historical,6490925111506,1922,3.1,2,0
 202,Timaeus,Plato,Fiction,4034390801272,1963,3.8,2,0
 203,Phaedo,Plato,Horror,3658438638777,1862,4.9,3,0
